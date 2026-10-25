@@ -1,0 +1,12 @@
+# Preserve Altium design and library files byte-for-byte.
+*.SchDoc binary
+*.PcbDoc binary
+*.SchLib binary
+*.PcbLib binary
+*.IntLib binary
+*.PrjPcb -text
+
+# Repository documentation and configuration
+*.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
