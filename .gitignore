@@ -5,6 +5,8 @@
 /FootprintLink-import-*/
 /Project Logs for */
 /Project Outputs for */
+/Libraries/FootprintLinkDiagnostic-*.PcbLib
+/Libraries/FootprintLinkSaveProbe-*.PcbLib
 *.bak
 *.log
 *.LOG
